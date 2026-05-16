@@ -1,0 +1,14 @@
+/Users/jostinmartinez/Desktop/UsuarioRandom/UsuarioRandom/bin/Debug/net9.0/UsuarioRandom
+/Users/jostinmartinez/Desktop/UsuarioRandom/UsuarioRandom/bin/Debug/net9.0/UsuarioRandom.deps.json
+/Users/jostinmartinez/Desktop/UsuarioRandom/UsuarioRandom/bin/Debug/net9.0/UsuarioRandom.runtimeconfig.json
+/Users/jostinmartinez/Desktop/UsuarioRandom/UsuarioRandom/bin/Debug/net9.0/UsuarioRandom.dll
+/Users/jostinmartinez/Desktop/UsuarioRandom/UsuarioRandom/bin/Debug/net9.0/UsuarioRandom.pdb
+/Users/jostinmartinez/Desktop/UsuarioRandom/UsuarioRandom/obj/Debug/net9.0/UsuarioRandom.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jostinmartinez/Desktop/UsuarioRandom/UsuarioRandom/obj/Debug/net9.0/UsuarioRandom.AssemblyInfoInputs.cache
+/Users/jostinmartinez/Desktop/UsuarioRandom/UsuarioRandom/obj/Debug/net9.0/UsuarioRandom.AssemblyInfo.cs
+/Users/jostinmartinez/Desktop/UsuarioRandom/UsuarioRandom/obj/Debug/net9.0/UsuarioRandom.csproj.CoreCompileInputs.cache
+/Users/jostinmartinez/Desktop/UsuarioRandom/UsuarioRandom/obj/Debug/net9.0/UsuarioRandom.dll
+/Users/jostinmartinez/Desktop/UsuarioRandom/UsuarioRandom/obj/Debug/net9.0/refint/UsuarioRandom.dll
+/Users/jostinmartinez/Desktop/UsuarioRandom/UsuarioRandom/obj/Debug/net9.0/UsuarioRandom.pdb
+/Users/jostinmartinez/Desktop/UsuarioRandom/UsuarioRandom/obj/Debug/net9.0/UsuarioRandom.genruntimeconfig.cache
+/Users/jostinmartinez/Desktop/UsuarioRandom/UsuarioRandom/obj/Debug/net9.0/ref/UsuarioRandom.dll
